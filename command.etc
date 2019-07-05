@@ -1,0 +1,6 @@
+查看当前目录:ls -a -l
+关闭防火墙:systemctl start firewalld
+打开防火墙:systemctl stop firewalld
+跑火车:sl
+跑脚本:./bin/run.sh
+求和:./bin/sub
